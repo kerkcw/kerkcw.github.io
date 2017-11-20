@@ -3,6 +3,10 @@
         "apps": [],
         "details": [
             {
+                "appID": "C58689D79E.sg.com.m1.mym1usagetracker",
+                "paths": ["*"]
+            },
+            {
                 "appID": "E5PMN8M5N8.sg.com.m1.mym1usagetracker",
                 "paths": ["*"]
             }
