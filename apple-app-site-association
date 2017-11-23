@@ -8,6 +8,7 @@
             },
 	    {
                 "appID": "R7JUVCA23B.sg.com.m1.mym1usagetracker",
+                "paths": ["*"]
             } 
         ]
     }
