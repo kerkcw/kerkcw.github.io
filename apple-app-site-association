@@ -5,10 +5,6 @@
             {
                 "appID": "C58689D79E.sg.com.m1.mym1usagetracker",
                 "paths": ["*"]
-            },
-	    {
-                "appID": "R7JUVCA23B.sg.com.m1.mym1usagetracker",
-                "paths": ["*"]
             } 
         ]
     }
